@@ -1,0 +1,165 @@
+Last login: Tue Feb 12 23:08:20 on ttys000
+MediaProductions-MacBook-Pro:~ Programming$ ls
+Applications		Movies			UCFLM201811FSF3
+Desktop			Music			bank.txt
+Documents		New			email
+Downloads		Pictures		node_modules
+Folder			Public			package-lock.json
+Library			Test
+MediaProductions-MacBook-Pro:~ Programming$ cd desktop
+MediaProductions-MacBook-Pro:desktop Programming$ ls
+Archives
+Character Create
+Code
+InstaCrypto.jpg
+PF
+Portfolio
+Presentation.jpg
+Programmers Name.js
+ProjectNotes.jpg
+Screen Shot 2018-11-27 at 6.39.24 PM.png
+Screen Shot 2019-01-15 at 9.27.15 PM.png
+Screen Shot 2019-01-17 at 11.51.52 PM.png
+Screen Shot 2019-01-17 at 8.22.54 PM.png
+Steps To Upload to Github.pdf654 kB PDFClick to view.webloc
+Team Manager
+Terminal Commands.png
+classact.js
+classactivity
+classactivity.js
+liri-node-app
+MediaProductions-MacBook-Pro:desktop Programming$ cd liri-node-app/
+MediaProductions-MacBook-Pro:liri-node-app Programming$ ls
+README.md		log.txt			random.txt
+keys.js			node_modules		screenshots
+liri.js			package-lock.json
+liriObj.js		package.json
+MediaProductions-MacBook-Pro:liri-node-app Programming$ node liri.js spotify-this-song Without Me
+this is loaded
+--------------
+Artist(s) Name: Halsey
+Track Name: Without Me
+Preview URL: null
+Album: Without Me
+
+Content Added!
+-----------------------------------
+
+MediaProductions-MacBook-Pro:liri-node-app Programming$ concert-this
+-bash: concert-this: command not found
+MediaProductions-MacBook-Pro:liri-node-app Programming$ node liri.js concert-this
+this is loaded
+--------------
+MediaProductions-MacBook-Pro:liri-node-app Programming$ node liri.js concert-this Gucci Mane
+this is loaded
+--------------
+Venue: INK-N-IVY Charlotte
+Location: Charlotte, North Carolina, United States
+Date: 02/17/2019
+Time: 9:00 pm
+
+Content Added!
+-----------------------------------
+
+Venue: Fillmore New Orleans
+Location: New Orleans, LA, United States
+Date: 02/22/2019
+Time: 10:00 pm
+
+Content Added!
+-----------------------------------
+
+Venue: The Bourbon Hall
+Location: Louisville, KY, United States
+Date: 05/04/2019
+Time: 10:00 pm
+
+Content Added!
+-----------------------------------
+
+Venue: Hard Rock Stadium
+Location: Miami Gardens, FL, United States
+Date: 05/10/2019
+Time: 7:00 pm
+
+Content Added!
+-----------------------------------
+
+Venue: Hard Rock Stadium
+Location: Miami Gardens, FL, United States
+Date: 05/12/2019
+Time: 7:00 pm
+
+Content Added!
+-----------------------------------
+
+Venue: Hart Plaza
+Location: Detroit, MI, United States
+Date: 05/25/2019
+Time: 12:00 am
+
+Content Added!
+-----------------------------------
+
+Venue: Bonnaroo Music and Arts Festival
+Location: Manchester, TN, United States
+Date: 06/15/2019
+Time: 6:00 pm
+
+Content Added!
+-----------------------------------
+
+Venue: The Woodlands
+Location: Dover, DE, United States
+Date: 06/23/2019
+Time: 7:00 pm
+
+Content Added!
+-----------------------------------
+
+MediaProductions-MacBook-Pro:liri-node-app Programming$ node liri.js movie-this Gone in 60 seconds
+this is loaded
+--------------
+Title: Gone in 60 Seconds
+Year: 1974
+IMDB Rating: 6.5
+Country: USA
+Language: English
+Plot: Insurance investigator Maindrian Pace and his team lead double-lives as unstoppable car thieves. When a South American drug lord pays Pace to steal 48 cars for him, all but one, a 1973 Ford...
+Actors: H.B. Halicki, Marion Busia, Jerry Daugirda, James McIntyre
+
+Content Added!
+-----------------------------------
+
+MediaProductions-MacBook-Pro:liri-node-app Programming$ node liri.js do-what-it-says
+this is loaded
+--------------
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+Rotten Tomatoes Score: 73/100
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Content Added!
+-----------------------------------
+
+Artist(s) Name: Atmosphere
+Track Name: Trying To Find A Balance
+Preview URL: https://p.scdn.co/mp3-preview/0ab4ccaa496c04cdad72b8f423e4521914492044?cid=f3ca006481324074beaeb44d81b6a70d
+Album: Seven's Travels
+
+Content Added!
+-----------------------------------
+
+Artist(s) Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f3ca006481324074beaeb44d81b6a70d
+Album: The Hits--Chapter One
+
+Content Added!
+-----------------------------------
+
+MediaProductions-MacBook-Pro:liri-node-app Programming$ 
